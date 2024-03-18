@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spronu&label=Profile%20views&color=0e75b6&style=flat" alt="spronu" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://yahyayildiz.com/](https://yahyayildiz.com/)
 
 - 📫 How to reach me **mail@yahyayildiz.com**
